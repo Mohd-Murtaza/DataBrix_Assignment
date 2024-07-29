@@ -11,7 +11,7 @@ const Home: React.FC = () => {
         We are glad to have you here. Explore the application using the sidebar
         links.
       </p>
-      <img className="max-w-xl m-auto mt-12 mb-8" src={web} alt="" />
+      <img className="w-full sm:w-3/4 md:w-1/2 lg:w-1/3 xl:w-1/2 m-auto mt-12 mb-8" src={web} alt="" />
     </div>
   );
 };
